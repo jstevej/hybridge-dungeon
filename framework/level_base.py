@@ -36,7 +36,7 @@ class LevelBase:
         self.sprites = LevelSprites()
         self.obstacle_layer_index = 2  # assume obstacles are on layer 2
         self.player = player
-        self.spawns = spawns
+        self.spawns = spawns if spawns is not None else {}
         self.player.add_to_level(self)
         self.load_map(map_file)
 
