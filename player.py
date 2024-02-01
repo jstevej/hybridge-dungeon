@@ -42,7 +42,6 @@ from framework.throttle import ThrottleEvent
 class Player(PlayerBase):
     def __init__(self):
         super().__init__(image_file='./assets/MasterIllusionistSprites64.png')
-        # self.change_shooter_throttle = ThrottleEvent(0.1)
         # self.set_shooter(LightningBall())
 
     def update(self, dt):
