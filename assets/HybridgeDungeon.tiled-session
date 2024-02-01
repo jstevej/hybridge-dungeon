@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "DungeonGathering64.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Level1.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 10200,
+                "y": 8877.272727272728
+            }
+        }
+    },
+    "last.imagePath": "/Users/sjoiner/src/hybridge-dungeon-jsj/assets",
+    "map.height": 40,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 60,
+    "openFiles": [
+        "Level1.tmx"
+    ],
+    "project": "HybridgeDungeon.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "Level1.tmx",
+        "DungeonGathering64.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
